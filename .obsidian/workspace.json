@@ -11,8 +11,12 @@
             "id": "7514d46b94dc5e08",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section 8/Images/ELB.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section 8/Images/ELB.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section 8/Images/ELB.png"
+                "file": "README.md"
               }
             }
           }
@@ -142,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f5819b468dd69fc",
+  "active": "7514d46b94dc5e08",
   "lastOpenFiles": [
+    "Section 8/Images/ELB.png",
     "SECTION 8- ELB and ASG.md",
     "Section 8/Images",
     "Section 8/Elastic Load Balancing.md",
@@ -155,7 +160,6 @@
     "Section 8/Gateway Load Balancer.md",
     "Section 8/Images/gwlb.png",
     "Section 8/Network Load Balancer.md",
-    "README.md",
-    "Section 8/Images/ELB.png"
+    "README.md"
   ]
 }
