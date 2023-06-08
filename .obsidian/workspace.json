@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Load Balancer.md",
+                "file": "SECTION 8- ELB and ASG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21d080f44656f380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gateway Load Balancer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Load Balancer.md",
+                "file": "Gateway Load Balancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Load Balancer.md",
+                "file": "Gateway Load Balancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Load Balancer.md"
+                "file": "Gateway Load Balancer.md"
               }
             }
           }
@@ -171,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc9c331f8653ca12",
+  "active": "21d080f44656f380",
   "lastOpenFiles": [
-    "SECTION 8- ELB and ASG.md",
     "Network Load Balancer.md",
+    "Gateway Load Balancer.md",
+    "SECTION 8- ELB and ASG.md",
     "README.md",
     "ELB.png",
     "Elastic Load Balancing.md",
