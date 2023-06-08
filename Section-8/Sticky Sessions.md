@@ -1,3 +1,5 @@
+# Sticky Sessions
+
 - It is possible to implement stickiness so that the same client is always redirected to the same instance behind a load balancer
 - Works for: Classic LB, Application LB and Network LB
 - ![stickySession](Images/stickySession.png)
