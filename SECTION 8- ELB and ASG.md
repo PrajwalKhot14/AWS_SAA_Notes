@@ -4,4 +4,4 @@
 [[Gateway Load Balancer]]
 [[Sticky Sessions]]
 
-[a relative link](Section%208/Elastic Load Balancing.md)
+[a relative link](Section-8/Elastic%20Load%20Balancing.md)
