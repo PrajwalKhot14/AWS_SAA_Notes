@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SECTION 8- ELB and ASG.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SECTION 8- ELB and ASG.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SECTION 8- ELB and ASG.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SECTION 8- ELB and ASG.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,16 +148,16 @@
   },
   "active": "d24b22e62f13e9a8",
   "lastOpenFiles": [
+    "SECTION-8-ELB and ASG.md",
+    "README.md",
     "Section-8/Sticky Sessions.md",
     "Section-8/Network Load Balancer.md",
     "Section-8/Gateway Load Balancer.md",
     "Section-8/Elastic Load Balancing.md",
     "Section-8/Application Load Balancer.md",
-    "SECTION 8- ELB and ASG.md",
     "Section-8/Elastic.md",
     "Section.md",
     "other_file.md",
-    "README.md",
     "Section-8/Images/ELB.png",
     "Section-8/Images",
     "Section-8",
