@@ -2,3 +2,4 @@
 [[Application Load Balancer]]
 [[Network Load Balancer]]
 [[Gateway Load Balancer]]
+[[Sticky Sessions]]

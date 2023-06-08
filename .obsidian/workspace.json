@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "5afb9a9ffdee381d",
+        "id": "ff83702c8f522219",
         "type": "tabs",
         "children": [
           {
-            "id": "bc9c331f8653ca12",
+            "id": "c2135cd86f645a00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elastic Load Balancing.md",
+                "file": "Gateway Load Balancer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "21d080f44656f380",
+            "id": "92e318893fe17fa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gateway Load Balancer.md",
+                "file": "Sticky Sessions.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gateway Load Balancer.md",
+                "file": "Sticky Sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gateway Load Balancer.md",
+                "file": "Sticky Sessions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gateway Load Balancer.md"
+                "file": "Sticky Sessions.md"
               }
             }
           }
@@ -159,13 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21d080f44656f380",
+  "active": "92e318893fe17fa8",
   "lastOpenFiles": [
-    "Elastic Load Balancing.md",
-    "Network Load Balancer.md",
-    "SECTION 8- ELB and ASG.md",
     "Gateway Load Balancer.md",
     "gwlb.png",
+    "SECTION 8- ELB and ASG.md",
+    "Sticky Sessions.md",
+    "stickySession 1.png",
+    "stickySession.png",
+    "Untitled",
+    "Elastic Load Balancing.md",
+    "Network Load Balancer.md",
     "README.md",
     "ELB.png",
     "Application Load Balancer.md"
