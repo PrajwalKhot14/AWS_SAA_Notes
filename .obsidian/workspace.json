@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ff83702c8f522219",
+        "id": "03871496f10c54c2",
         "type": "tabs",
         "children": [
           {
-            "id": "c2135cd86f645a00",
+            "id": "7514d46b94dc5e08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gateway Load Balancer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92e318893fe17fa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sticky Sessions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sticky Sessions.md",
+                "file": "Section 8/Images/ELB.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sticky Sessions.md",
+                "file": "Section 8/Images/ELB.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sticky Sessions.md"
+                "file": "Section 8/Images/ELB.png"
               }
             }
           }
@@ -159,19 +142,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92e318893fe17fa8",
+  "active": "7f5819b468dd69fc",
   "lastOpenFiles": [
-    "Gateway Load Balancer.md",
-    "gwlb.png",
     "SECTION 8- ELB and ASG.md",
-    "Sticky Sessions.md",
-    "stickySession 1.png",
-    "stickySession.png",
-    "Untitled",
-    "Elastic Load Balancing.md",
-    "Network Load Balancer.md",
+    "Section 8/Images",
+    "Section 8/Elastic Load Balancing.md",
+    "Section 8/Application Load Balancer.md",
+    "Section 8",
+    "Section 8/Images/stickySession 1.png",
+    "Section 8/Images/stickySession.png",
+    "Section 8/Sticky Sessions.md",
+    "Section 8/Gateway Load Balancer.md",
+    "Section 8/Images/gwlb.png",
+    "Section 8/Network Load Balancer.md",
     "README.md",
-    "ELB.png",
-    "Application Load Balancer.md"
+    "Section 8/Images/ELB.png"
   ]
 }
