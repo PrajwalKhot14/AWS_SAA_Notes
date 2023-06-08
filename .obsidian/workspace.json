@@ -11,8 +11,12 @@
             "id": "bb9642a316e3e0c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SECTION 8- ELB and ASG.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SECTION 8- ELB and ASG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SECTION 8- ELB and ASG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SECTION 8- ELB and ASG.md"
+              }
             }
           }
         ]
@@ -140,6 +148,9 @@
   },
   "active": "bb9642a316e3e0c7",
   "lastOpenFiles": [
+    "Section.md",
+    "SECTION 8- ELB and ASG.md",
+    "other_file.md",
     "Section 8/Sticky Sessions.md",
     "Section 8/Network Load Balancer.md",
     "Section 8/Gateway Load Balancer.md",
@@ -147,7 +158,6 @@
     "Section 8/Application Load Balancer.md",
     "README.md",
     "Section 8/Images/ELB.png",
-    "SECTION 8- ELB and ASG.md",
     "Section 8/Images",
     "Section 8",
     "Section 8/Images/stickySession 1.png",
