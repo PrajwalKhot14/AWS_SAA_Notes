@@ -1,6 +1,6 @@
 - It is possible to implement stickiness so that the same client is always redirected to the same instance behind a load balancer
 - Works for: Classic LB, Application LB and Network LB
-- ![stickySession](stickySession.png)
+- ![stickySession](Images/stickySession.png)
 - The "cookie" has expiration date
 - Use case: User does not lose session data
 - Disadvantage: Creates imbalance 
