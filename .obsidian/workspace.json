@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section-8/Sticky Sessions.md",
+                "file": "Section-8/SSL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section-8/Sticky Sessions.md",
+                "file": "Section-8/SSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section-8/Sticky Sessions.md",
+                "file": "Section-8/SSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section-8/Sticky Sessions.md"
+                "file": "Section-8/SSL.md"
               }
             }
           }
@@ -148,13 +148,15 @@
   },
   "active": "b1cc912fd2af3cda",
   "lastOpenFiles": [
+    "Section-8/Elastic Load Balancing.md",
+    "Section-8/SSL.md",
+    "Section-8/Images/SNI.png",
+    "SECTION-8-ELBandASG.md",
+    "Section-8/Sticky Sessions.md",
     "Section-8/Network Load Balancer.md",
     "Section-8/Gateway Load Balancer.md",
-    "Section-8/Elastic Load Balancing.md",
     "Section-8/Application Load Balancer.md",
-    "SECTION-8-ELBandASG.md",
     "README.md",
-    "Section-8/Sticky Sessions.md",
     "Section-8/Elastic.md",
     "Section.md",
     "other_file.md",
