@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section-8/SSL.md",
+                "file": "SECTION-8-ELBandASG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "631598838e0ae290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section-8/Connection Draining.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section-8/SSL.md",
+                "file": "Section-8/Connection Draining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section-8/SSL.md",
+                "file": "Section-8/Connection Draining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section-8/SSL.md"
+                "file": "Section-8/Connection Draining.md"
               }
             }
           }
@@ -146,12 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1cc912fd2af3cda",
+  "active": "631598838e0ae290",
   "lastOpenFiles": [
-    "Section-8/Elastic Load Balancing.md",
-    "Section-8/SSL.md",
-    "Section-8/Images/SNI.png",
     "SECTION-8-ELBandASG.md",
+    "Section-8/Connection Draining.md",
+    "Section-8/SSL.md",
+    "Section-8/Untitled.md",
+    "Section-8/Elastic Load Balancing.md",
+    "Section-8/Images/SNI.png",
     "Section-8/Sticky Sessions.md",
     "Section-8/Network Load Balancer.md",
     "Section-8/Gateway Load Balancer.md",

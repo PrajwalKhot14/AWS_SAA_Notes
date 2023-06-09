@@ -6,6 +6,7 @@
 [Gateway Load Balancer](Section-8/Gateway%20Load%20Balancer.md)</br>
 [Sticky Sessions](Section-8/Sticky%20Sessions.md)</br>
 [SSL TLS](Section-8/SSL.md)</br>
+[Connection Draining](Section-8/Connection%20Draining.md)</br>
 
 
 
