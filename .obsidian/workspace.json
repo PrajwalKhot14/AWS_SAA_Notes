@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SECTION-8-ELBandASG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a5cb9f0d0ba8694",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Section-8/Auto Scaling Group.md",
+                "file": "Section-9/Amazon RDS Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section-8/Auto Scaling Group.md",
+                "file": "Section-9/Amazon RDS Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section-8/Auto Scaling Group.md",
+                "file": "Section-9/Amazon RDS Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section-8/Auto Scaling Group.md"
+                "file": "Section-9/Amazon RDS Overview.md"
               }
             }
           }
@@ -159,10 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a5cb9f0d0ba8694",
+  "active": "7f5819b468dd69fc",
   "lastOpenFiles": [
+    "Section-9/AWS Fundamentals - RDS + Aurora + ElastiCache.md",
+    "Section-9/Amazon RDS Overview.md",
+    "Amazon RDS Overview.md",
+    "README.md",
+    "Section-9/AWS Fundamentals - -RDS + Aurora + ElastiCache.md",
+    "Section-9/AWS Fundamentals -RDS + Aurora + ElastiCache.md",
     "SECTION-8-ELBandASG.md",
     "Section-8/Auto Scaling Group.md",
+    "Section-9",
     "Section-8/Connection Draining.md",
     "Section-8/SSL.md",
     "Section-8/Untitled.md",
@@ -172,7 +166,6 @@
     "Section-8/Network Load Balancer.md",
     "Section-8/Gateway Load Balancer.md",
     "Section-8/Application Load Balancer.md",
-    "README.md",
     "Section-8/Elastic.md",
     "Section.md",
     "other_file.md",
