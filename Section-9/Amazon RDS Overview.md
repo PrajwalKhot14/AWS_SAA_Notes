@@ -1,0 +1,11 @@
+- Relational DB service
+- SQL as query language
+	- Postgres
+	- MySQL
+	- MariaDB
+	- Oracle
+	- Microsoft SQL Server
+	- Aurora
+- Adv:
+	- Storage backed by EBS
+- Cannot SSH
