@@ -7,6 +7,7 @@
 [Sticky Sessions](Section-8/Sticky%20Sessions.md)</br>
 [SSL TLS](Section-8/SSL.md)</br>
 [Connection Draining](Section-8/Connection%20Draining.md)</br>
+[Auto Scaling Group](Section-8/Auto%20Scaling%20Group.md)</br>
 
 
 

@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "631598838e0ae290",
+            "id": "3a5cb9f0d0ba8694",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section-8/Connection Draining.md",
+                "file": "Section-8/Auto Scaling Group.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section-8/Connection Draining.md",
+                "file": "Section-8/Auto Scaling Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section-8/Connection Draining.md",
+                "file": "Section-8/Auto Scaling Group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section-8/Connection Draining.md"
+                "file": "Section-8/Auto Scaling Group.md"
               }
             }
           }
@@ -159,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "631598838e0ae290",
+  "active": "3a5cb9f0d0ba8694",
   "lastOpenFiles": [
     "SECTION-8-ELBandASG.md",
+    "Section-8/Auto Scaling Group.md",
     "Section-8/Connection Draining.md",
     "Section-8/SSL.md",
     "Section-8/Untitled.md",
