@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section-9/Amazon RDS Overview.md",
+                "file": "Section-9/AWS Fundamentals - RDS + Aurora + ElastiCache.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "113b2f679f23d2e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section-9/Amazon Aurora.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section-9/Amazon RDS Overview.md",
+                "file": "Section-9/Amazon Aurora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section-9/Amazon RDS Overview.md",
+                "file": "Section-9/Amazon Aurora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section-9/Amazon RDS Overview.md"
+                "file": "Section-9/Amazon Aurora.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f5819b468dd69fc",
+  "active": "113b2f679f23d2e6",
   "lastOpenFiles": [
     "Section-9/AWS Fundamentals - RDS + Aurora + ElastiCache.md",
+    "Section-9/Amazon Aurora.md",
     "Section-9/Amazon RDS Overview.md",
     "Amazon RDS Overview.md",
     "README.md",
