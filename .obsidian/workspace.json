@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section-9/List of Ports to be familiar with.md",
+                "file": "Section-10/Route 53 Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section-9/List of Ports to be familiar with.md",
+                "file": "Section-10/Route 53 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section-9/List of Ports to be familiar with.md",
+                "file": "Section-10/Route 53 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section-9/List of Ports to be familiar with.md"
+                "file": "Section-10/Route 53 Overview.md"
               }
             }
           }
@@ -161,10 +161,14 @@
   },
   "active": "113b2f679f23d2e6",
   "lastOpenFiles": [
-    "Section-9/AWS Fundamentals - RDS + Aurora + ElastiCache.md",
-    "Section-9/List of Ports to be familiar with.md",
-    "Section-9/Amazon RDS Overview.md",
+    "Section-10/Route 53.md",
+    "Section-10/Route 53 Overview.md",
     "README.md",
+    "Section-10/DNS.md",
+    "Section-9/List of Ports to be familiar with.md",
+    "Section-10",
+    "Section-9/AWS Fundamentals - RDS + Aurora + ElastiCache.md",
+    "Section-9/Amazon RDS Overview.md",
     "Section-9/Amazon Aurora.md",
     "Amazon RDS Overview.md",
     "Section-9/AWS Fundamentals - -RDS + Aurora + ElastiCache.md",
