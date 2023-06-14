@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section-10/Route 53 Routing Policies.md",
+                "file": "Section-10/Route 53.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb8f4132872f16bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section-10/Route 53.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section-10/Route 53 Routing Policies.md",
+                "file": "Section-10/Route 53.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section-10/Route 53 Routing Policies.md",
+                "file": "Section-10/Route 53.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section-10/Route 53 Routing Policies.md"
+                "file": "Section-10/Route 53.md"
               }
             }
           }
@@ -146,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1cc912fd2af3cda",
+  "active": "bb8f4132872f16bd",
   "lastOpenFiles": [
-    "Screen Shot 2023-06-13 at 11.42.59 PM.png",
-    "Section-10/Route 53 Routing Policies.md",
-    "Section-10/Route 53 Overview.md",
-    "Section-9/AWS Fundamentals - RDS + Aurora + ElastiCache.md",
+    "Section-10/Route 53 Health Checks.md",
     "Section-10/Route 53.md",
+    "Section-10/Route 53 Overview.md",
+    "Section-10/Route 53 Routing Policies.md",
+    "Screen Shot 2023-06-13 at 11.42.59 PM.png",
+    "Section-9/AWS Fundamentals - RDS + Aurora + ElastiCache.md",
     "Section-10/Images/Simple.png",
     "Section-10/CNAME vs Alias.md",
     "Section-10/DNS.md",
