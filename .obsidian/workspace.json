@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section-9/AWS Fundamentals - RDS + Aurora + ElastiCache.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "113b2f679f23d2e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Section-10/Route 53.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37159347adceaa1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Section-10/Route 53.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f8bce8844f6bf19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Section-10/CNAME vs Alias.md",
+                "file": "Section-10/Route 53 Routing Policies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section-10/CNAME vs Alias.md",
+                "file": "Section-10/Route 53 Routing Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section-10/CNAME vs Alias.md",
+                "file": "Section-10/Route 53 Routing Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section-10/CNAME vs Alias.md"
+                "file": "Section-10/Route 53 Routing Policies.md"
               }
             }
           }
@@ -183,24 +146,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f8bce8844f6bf19",
+  "active": "b1cc912fd2af3cda",
   "lastOpenFiles": [
-    "Section-10/Route 53.md",
+    "Screen Shot 2023-06-13 at 11.42.59 PM.png",
+    "Section-10/Route 53 Routing Policies.md",
     "Section-10/Route 53 Overview.md",
+    "Section-9/AWS Fundamentals - RDS + Aurora + ElastiCache.md",
+    "Section-10/Route 53.md",
+    "Section-10/Images/Simple.png",
     "Section-10/CNAME vs Alias.md",
-    "CNAME vs Alias.md",
     "Section-10/DNS.md",
+    "Section-8/Gateway Load Balancer.md",
+    "Section-8/Network Load Balancer.md",
+    "Section-8/Application Load Balancer.md",
+    "Section-8/Auto Scaling Group.md",
+    "Section-10/Images/Screen Shot 2023-06-13 at 11.44.34 PM.png",
+    "Section-10/Images",
+    "Section-10/untitled folder",
+    "CNAME vs Alias.md",
     "README.md",
     "Section-9/List of Ports to be familiar with.md",
     "Section-10",
-    "Section-9/AWS Fundamentals - RDS + Aurora + ElastiCache.md",
     "Section-9/Amazon RDS Overview.md",
     "Section-9/Amazon Aurora.md",
     "Amazon RDS Overview.md",
     "Section-9/AWS Fundamentals - -RDS + Aurora + ElastiCache.md",
     "Section-9/AWS Fundamentals -RDS + Aurora + ElastiCache.md",
     "SECTION-8-ELBandASG.md",
-    "Section-8/Auto Scaling Group.md",
     "Section-9",
     "Section-8/Connection Draining.md",
     "Section-8/SSL.md",
@@ -208,12 +180,7 @@
     "Section-8/Elastic Load Balancing.md",
     "Section-8/Images/SNI.png",
     "Section-8/Sticky Sessions.md",
-    "Section-8/Network Load Balancer.md",
-    "Section-8/Gateway Load Balancer.md",
-    "Section-8/Application Load Balancer.md",
     "Section-8/Elastic.md",
-    "Section.md",
-    "other_file.md",
     "Section-8/Images/ELB.png",
     "Section-8/Images",
     "Section-8",
