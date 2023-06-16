@@ -27,5 +27,4 @@
 ## S3 Intelligent-Tiering 
 - Small monthly cost for monitoring and auto-tiering free
 - Moves objs automatically between Access Tiers based on usage
-- No retrieval charges in S3 Intelligent Tiering 
-
+- No retrieval charges in S3 Intelligent Tiering
