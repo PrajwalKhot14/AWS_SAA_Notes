@@ -1,5 +1,4 @@
 # S3 - Storage Classes
-
 ## S3 Standard - General Purpose
 - High availability 
 - For frequently accessed data
