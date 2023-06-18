@@ -4,47 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "5f12b5dfded50ff7",
+        "id": "223fae435a5db918",
         "type": "tabs",
         "children": [
           {
-            "id": "61c7e899f4ce056f",
+            "id": "d7c2bb5892ccf089",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S3/S3.md",
+                "file": "Amazon S3 Encryption/Amazon S3 Encryption.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a9f8ec24b15d9d3d",
+            "id": "2db35428b7c0028b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "s3/s3-StorageClasses.md",
+                "file": "Amazon S3 Encryption/Amazon S3 Encryption.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "beda7143689793fc",
+            "id": "dcd6adf6a72a70fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "s3/s3-Objects.md",
+                "file": "Amazon S3 Encryption/S3 Encryption.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "s3/s3-StorageClasses.md",
+                "file": "Amazon S3 Encryption/S3 Encryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "s3/s3-StorageClasses.md",
+                "file": "Amazon S3 Encryption/S3 Encryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "s3/s3-StorageClasses.md"
+                "file": "Amazon S3 Encryption/S3 Encryption.md"
               }
             }
           }
@@ -171,11 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9f8ec24b15d9d3d",
+  "active": "dcd6adf6a72a70fb",
   "lastOpenFiles": [
-    "S3/s3-StorageClasses.md",
+    "Amazon S3 Encryption/Amazon S3 Encryption.md",
+    "Amazon S3 Encryption/S3 Encryption.md",
+    "Amazon S3 Encryption/Amazon.md",
     "S3/S3.md",
+    "Amazon S3 Encryption",
     "s3/s3-StorageClasses.md",
+    "s3/s3-Objects.md",
+    "S3/s3-StorageClasses.md",
     "S3/s3-Security.md",
     "S3/Images/Bucket_Policy.png",
     "Section-8/Gateway Load Balancer.md",
@@ -183,7 +188,6 @@
     "s3/s3-Security.md",
     "README.md",
     "Section-10/Route 53.md",
-    "s3/s3-Objects.md",
     "S3/s3-Objects.md",
     "Section-10/DNS.md",
     "S3/Untitled.md",
@@ -205,9 +209,6 @@
     "CNAME vs Alias.md",
     "Section-9/List of Ports to be familiar with.md",
     "Section-10",
-    "Section-9/Amazon RDS Overview.md",
-    "Section-9/Amazon Aurora.md",
-    "Amazon RDS Overview.md",
     "Section-9",
     "Section-8/Images/SNI.png",
     "Section-8/Images/ELB.png",
