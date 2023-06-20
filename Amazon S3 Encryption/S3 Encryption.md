@@ -19,8 +19,8 @@
 
 ## SSE KMS
 - Encryption using keys handled and managed by AWS KMS
-- KMS adv: User control + audit key usage using CloudTrail
-- Objs are encrypted server-side
+- KMS advantages: User control + audit key usage using CloudTrail
+- Objects are encrypted server-side
 - Must set header "x-amz-server-side-encryption":"aws:kms"
 - Limitation:
 	- You may be impacted by the KMS limits
