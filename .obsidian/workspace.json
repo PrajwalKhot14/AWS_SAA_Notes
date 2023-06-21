@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7c2bb5892ccf089",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9f654a2bcc48cf52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Section-16/AWS Snow Family Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c3df9b2d0fa8ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section-16/AWS FSx.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section-16/AWS Snow Family Overview.md",
+                "file": "Section-16/AWS FSx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section-16/AWS Snow Family Overview.md",
+                "file": "Section-16/AWS FSx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section-16/AWS Snow Family Overview.md"
+                "file": "Section-16/AWS FSx.md"
               }
             }
           }
@@ -159,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f654a2bcc48cf52",
+  "active": "8c3df9b2d0fa8ae7",
   "lastOpenFiles": [
-    "README.md",
     "Section-16/AWS Snow Family Overview.md",
+    "Section-16/AWS FSx.md",
+    "README.md",
     "Section-16",
     "SECTION-8-ELBandASG.md",
     "Amazon S3 Encryption/Amazon S3 Encryption.md",
@@ -196,7 +197,6 @@
     "Section-10/Images/Screen Shot 2023-06-13 at 11.44.34 PM.png",
     "Section-10/Images",
     "Section-10/untitled folder",
-    "CNAME vs Alias.md",
     "Section-10",
     "Section-9",
     "Section-8/Images/SNI.png",

@@ -28,3 +28,6 @@
 	- 28 TB NVMs or 42 TB HDD
 - Snowball Edge - Storage Optimized
 	- Upto 40 vCPUs, 80 GiB of RAM, 80 TB storage
+
+
+[Amazon FSx](Section-16/AWS%20FSx.md)</br>
