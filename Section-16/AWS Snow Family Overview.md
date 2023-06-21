@@ -9,3 +9,22 @@
 	- Snowcone 
 	- Snowball Edge
 
+- Snowball Edge:
+	- Snowball Edge Storage Optimized: 80 TB of HDD Capacity
+	- Snowball Edge Compute Optimized: 42 TB of HDD or 28TB NVMe Capacity
+- Snowcone: Smaller in size
+	- Snowcone- 8TB of HDD
+	- Snowcone SSD- 14 TB of SSD
+- Snowmobile:(Literally a truck)
+	- 1 EB (1000 PB or 1,000,000 TBs)
+	- Each snowmobile can store 100 PB of data
+
+## Edge computing
+- Snowcone and Snowcone SSD
+	- 2 CPUs, 4 GB memory
+- Snowball Edge - Compute Optimized
+	- 104 vCPUs, 416 GiB of RAM
+	- Optional GPU
+	- 28 TB NVMs or 42 TB HDD
+- Snowball Edge - Storage Optimized
+	- Upto 40 vCPUs, 80 GiB of RAM, 80 TB storage
