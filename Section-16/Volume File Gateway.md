@@ -1,0 +1,4 @@
+- Block storage using iSCSI protocol backed by S3
+- Backed by EBS snapshots which can help restore on-premises volumes
+- **Cached Volume**: low latency access to most recent data
+- **Stored Volume:** Entire dataset is on premise, scheduled backup by S3
