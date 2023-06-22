@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section-16/AWS Snow Family Overview.md",
+                "file": "Section-17/Decoupling applications - SQS, SNS, Kinesis, Active MQ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3298f1f97f8e012f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section-17/SQS-Message Visibility Timeout.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section-16/AWS Snow Family Overview.md",
+                "file": "Section-17/SQS-Message Visibility Timeout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section-16/AWS Snow Family Overview.md",
+                "file": "Section-17/SQS-Message Visibility Timeout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section-16/AWS Snow Family Overview.md"
+                "file": "Section-17/SQS-Message Visibility Timeout.md"
               }
             }
           }
@@ -159,19 +171,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f8b74715b2a3749",
+  "active": "3298f1f97f8e012f",
   "lastOpenFiles": [
-    "Section-16/Storage Comparision.png",
+    "Section-17/Decoupling applications - SQS, SNS, Kinesis, Active MQ.md",
+    "Section-17/SQS-Message Visibility Timeout.md",
+    "Section-17/SQS.md",
+    "Section-17/Overview.md",
+    "README.md",
+    "Sectin-17/Decoupling applications - SQS, SNS, Kinesis, Active MQ.md",
+    "Sectin-17",
+    "Section-17",
+    "SECTION-8-ELBandASG.md",
     "Section-16/AWS Snow Family Overview.md",
+    "Section-16/Storage Comparision.png",
     "Section-16/AWS FSx.md",
     "Section-16/Tape File Gateway.md",
     "Section-16/Volume File Gateway.md",
     "Section-16/S3 File Gateway.md",
     "Section-16/Hybrid Cloud for Storage - AWS Storage Gateway.md",
     "Section-16/FSx File Gateway.md",
-    "README.md",
     "Section-16",
-    "SECTION-8-ELBandASG.md",
     "Amazon S3 Encryption/Amazon S3 Encryption.md",
     "Amazon S3 Encryption/S3 Encryption.md",
     "Amazon S3 Encryption/Amazon.md",
@@ -187,11 +206,7 @@
     "s3/s3-Security.md",
     "Section-10/Route 53.md",
     "S3/s3-Objects.md",
-    "Section-10/DNS.md",
-    "S3/Untitled.md",
     "S3",
-    "Section-10/Route 53 Health Checks.md",
-    "Section-10/Route 53 Overview.md",
     "Screen Shot 2023-06-13 at 11.42.59 PM.png",
     "Section-10/Images/Simple.png",
     "Section-10/Images/Screen Shot 2023-06-13 at 11.44.34 PM.png",
@@ -201,8 +216,6 @@
     "Section-9",
     "Section-8/Images/SNI.png",
     "Section-8/Images/ELB.png",
-    "Section-8/Images",
-    "Section-8",
     "Section-8/Images/stickySession 1.png",
     "Section-8/Images/stickySession.png",
     "Section-8/Images/gwlb.png"
