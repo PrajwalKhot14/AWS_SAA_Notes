@@ -1,0 +1,3 @@
+- Kinesis Data Streams
+- Kinesis Data Firehose
+- Kinesis Data Analytics
