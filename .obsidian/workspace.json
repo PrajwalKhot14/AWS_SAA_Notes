@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section-16/Tape File Gateway.md",
+                "file": "Section-16/AWS Snow Family Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section-16/Tape File Gateway.md",
+                "file": "Section-16/AWS Snow Family Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section-16/Tape File Gateway.md",
+                "file": "Section-16/AWS Snow Family Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section-16/Tape File Gateway.md"
+                "file": "Section-16/AWS Snow Family Overview.md"
               }
             }
           }
@@ -161,13 +161,14 @@
   },
   "active": "9f8b74715b2a3749",
   "lastOpenFiles": [
-    "Section-16/Hybrid Cloud for Storage - AWS Storage Gateway.md",
-    "Section-16/Volume File Gateway.md",
-    "Section-16/FSx File Gateway.md",
-    "Section-16/AWS FSx.md",
+    "Section-16/Storage Comparision.png",
     "Section-16/AWS Snow Family Overview.md",
-    "Section-16/S3 File Gateway.md",
+    "Section-16/AWS FSx.md",
     "Section-16/Tape File Gateway.md",
+    "Section-16/Volume File Gateway.md",
+    "Section-16/S3 File Gateway.md",
+    "Section-16/Hybrid Cloud for Storage - AWS Storage Gateway.md",
+    "Section-16/FSx File Gateway.md",
     "README.md",
     "Section-16",
     "SECTION-8-ELBandASG.md",
@@ -191,7 +192,6 @@
     "S3",
     "Section-10/Route 53 Health Checks.md",
     "Section-10/Route 53 Overview.md",
-    "Section-10/Route 53 Routing Policies.md",
     "Screen Shot 2023-06-13 at 11.42.59 PM.png",
     "Section-10/Images/Simple.png",
     "Section-10/Images/Screen Shot 2023-06-13 at 11.44.34 PM.png",
