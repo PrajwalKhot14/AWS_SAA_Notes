@@ -1,0 +1,12 @@
+# AWS Storage Gateway
+- Bridge between on-premises data and cloud data
+- Use cases:
+	- Disaster recovery
+	- Backup and restore
+	- Tiered storage
+	- On-premises cache and low-latency file access
+- Types:
+	- [S3 File Gateway](Section-16/S3%20File%20Gateway.md)
+	- [FSx File Gateway](Section-16/FSx%20File%20Gateway.md)
+	- [Volume File Gateway](Section-16/Volume%20File%20Gateway.md)
+	- [Tape File Gateway](Section-16/Tape%20File%20Gateway.md)

@@ -31,3 +31,4 @@
 
 
 [Amazon FSx](Section-16/AWS%20FSx.md)</br>
+[Hybrid Cloud for Storage - AWS Storage Gateway](Hybrid%20Cloud%20for%20Storage%20-%20AWS%20Storage%20Gateway.md)</br>
