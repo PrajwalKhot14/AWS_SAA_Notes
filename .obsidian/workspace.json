@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "eee91c6214282c8d",
+        "id": "f515f91d9add693a",
         "type": "tabs",
         "children": [
           {
-            "id": "3558167b26d1cabe",
+            "id": "4ddb1508d847f891",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section-17/Decoupling applications - SQS, SNS, Kinesis, Active MQ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1a00fbe41c33889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Section-17/Decoupling applications - SQS, SNS, Kinesis, Active MQ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1492dfbfb56b45f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Section-17/Kinesis.md",
+                "file": "Section-18/Amazon ECS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section-17/Kinesis.md",
+                "file": "Section-18/Amazon ECS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section-17/Kinesis.md",
+                "file": "Section-18/Amazon ECS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section-17/Kinesis.md"
+                "file": "Section-18/Amazon ECS.md"
               }
             }
           }
@@ -171,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1492dfbfb56b45f",
+  "active": "4ddb1508d847f891",
   "lastOpenFiles": [
+    "Section-18/Container on AWS - ECS, Fargate, ECR and EKS.md",
+    "Section-18/Amazon ECS.md",
+    "Section-18",
     "Section-17/Decoupling applications - SQS, SNS, Kinesis, Active MQ.md",
     "Section-17/Kinesis.md",
     "Section-17/Overview.md",
@@ -203,9 +181,7 @@
     "S3/s3-StorageClasses.md",
     "S3/s3-Security.md",
     "S3/Images/Bucket_Policy.png",
-    "Section-8/Gateway Load Balancer.md",
     "S3/Images",
-    "s3/s3-Security.md",
     "S3",
     "Screen Shot 2023-06-13 at 11.42.59 PM.png",
     "Section-10/Images/Simple.png",
@@ -213,7 +189,6 @@
     "Section-10/Images",
     "Section-10/untitled folder",
     "Section-10",
-    "Section-9",
     "Section-8/Images/SNI.png",
     "Section-8/Images/ELB.png",
     "Section-8/Images/stickySession 1.png",
