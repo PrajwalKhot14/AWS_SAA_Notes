@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section-21/Database Types.md",
+                "file": "Section-21/Aurora.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section-21/Database Types.md",
+                "file": "Section-21/Aurora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section-21/Database Types.md",
+                "file": "Section-21/Aurora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section-21/Database Types.md"
+                "file": "Section-21/Aurora.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "4ddb1508d847f891",
   "lastOpenFiles": [
-    "Section-10/Images/Simple.png",
+    "Section-21/Amazon RDS.md",
+    "Section-21/Aurora.md",
     "Section-21/Database Types.md",
+    "Section-10/Images/Simple.png",
     "Section-21",
     "Section-18/Amazon ECS.md",
     "Section-18/Container on AWS - ECS, Fargate, ECR and EKS.md",
@@ -180,7 +182,6 @@
     "S3/S3.md",
     "Amazon S3 Encryption",
     "s3/s3-StorageClasses.md",
-    "s3/s3-Objects.md",
     "S3/Images/Bucket_Policy.png",
     "S3/Images",
     "S3",

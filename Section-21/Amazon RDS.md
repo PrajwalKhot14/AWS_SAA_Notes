@@ -1,0 +1,3 @@
+- Managed 
+- Read Replicas and Multi AZ
+-  
