@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section-18/Amazon ECS.md",
+                "file": "Section-21/Database Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section-18/Amazon ECS.md",
+                "file": "Section-21/Database Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section-18/Amazon ECS.md",
+                "file": "Section-21/Database Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section-18/Amazon ECS.md"
+                "file": "Section-21/Database Types.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "4ddb1508d847f891",
   "lastOpenFiles": [
-    "Section-18/Container on AWS - ECS, Fargate, ECR and EKS.md",
+    "Section-10/Images/Simple.png",
+    "Section-21/Database Types.md",
+    "Section-21",
     "Section-18/Amazon ECS.md",
+    "Section-18/Container on AWS - ECS, Fargate, ECR and EKS.md",
     "Section-18",
     "Section-17/Decoupling applications - SQS, SNS, Kinesis, Active MQ.md",
     "Section-17/Kinesis.md",
@@ -178,17 +181,13 @@
     "Amazon S3 Encryption",
     "s3/s3-StorageClasses.md",
     "s3/s3-Objects.md",
-    "S3/s3-StorageClasses.md",
-    "S3/s3-Security.md",
     "S3/Images/Bucket_Policy.png",
     "S3/Images",
     "S3",
     "Screen Shot 2023-06-13 at 11.42.59 PM.png",
-    "Section-10/Images/Simple.png",
     "Section-10/Images/Screen Shot 2023-06-13 at 11.44.34 PM.png",
     "Section-10/Images",
     "Section-10/untitled folder",
-    "Section-10",
     "Section-8/Images/SNI.png",
     "Section-8/Images/ELB.png",
     "Section-8/Images/stickySession 1.png",
