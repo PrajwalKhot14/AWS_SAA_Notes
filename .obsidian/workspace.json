@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d0a53e4f66a62900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Academy/Elastic Compute Cloud.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section-21/Aurora.md",
+                "file": "Cloud Academy/Elastic Compute Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section-21/Aurora.md",
+                "file": "Cloud Academy/Elastic Compute Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section-21/Aurora.md"
+                "file": "Cloud Academy/Elastic Compute Cloud.md"
               }
             }
           }
@@ -146,10 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ddb1508d847f891",
+  "active": "7f5819b468dd69fc",
   "lastOpenFiles": [
-    "Section-21/Amazon RDS.md",
+    "Cloud Academy/ECS.md",
+    "Cloud Academy/Elastic Compute Cloud.md",
+    "Cloud Academy",
     "Section-21/Aurora.md",
+    "EC2/EC 2.md",
+    "EC2",
+    "Section-21/Amazon RDS.md",
     "Section-21/Database Types.md",
     "Section-10/Images/Simple.png",
     "Section-21",
@@ -178,17 +196,12 @@
     "Section-16",
     "Amazon S3 Encryption/Amazon S3 Encryption.md",
     "Amazon S3 Encryption/S3 Encryption.md",
-    "Amazon S3 Encryption/Amazon.md",
-    "S3/S3.md",
     "Amazon S3 Encryption",
-    "s3/s3-StorageClasses.md",
     "S3/Images/Bucket_Policy.png",
     "S3/Images",
     "S3",
     "Screen Shot 2023-06-13 at 11.42.59 PM.png",
     "Section-10/Images/Screen Shot 2023-06-13 at 11.44.34 PM.png",
-    "Section-10/Images",
-    "Section-10/untitled folder",
     "Section-8/Images/SNI.png",
     "Section-8/Images/ELB.png",
     "Section-8/Images/stickySession 1.png",
