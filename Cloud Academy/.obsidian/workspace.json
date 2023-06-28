@@ -35,14 +35,11 @@
             "id": "fa8bb84bc5f2b7bc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1. Compute/AWS Compute Fundamentals/Compute Fundamentals.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "1. Compute/Serverless Compute/An Overview of AWS Lambda.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Compute/AWS Compute Fundamentals/Compute Fundamentals.canvas",
+                "file": "1. Compute/Serverless Compute/An Overview of AWS Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Compute/AWS Compute Fundamentals/Compute Fundamentals.canvas",
+                "file": "1. Compute/Serverless Compute/An Overview of AWS Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Compute/AWS Compute Fundamentals/Compute Fundamentals.canvas"
+                "file": "1. Compute/Serverless Compute/An Overview of AWS Lambda.md"
               }
             }
           }
@@ -174,10 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b3862d09d11be68",
+  "active": "fa8bb84bc5f2b7bc",
   "lastOpenFiles": [
+    "AWS Global Infrastructure.pdf",
+    "Unconfirmed 328534.crdownload",
+    "1. Compute/Index.md",
+    "1. Compute/Serverless Compute/An Overview of AWS Lambda.md",
+    "1. Compute/Serverless Compute",
+    "1. Compute/Elastic Load Balancing/What is an ELB?.md",
+    "1. Compute/Elastic Load Balancing",
     "1. Compute/EC2 Auto Scaling/Components of EC2 Auto Scaling.md",
-    "1. Compute/AWS Compute Fundamentals/Compute Fundamentals.canvas",
+    "1. Compute/EC2 Auto Scaling/EC2 Auto Scaling.md",
     "1. Compute/AWS Compute Fundamentals/Compute Fundamentals.canvas",
     "9. Encryption",
     "8. Management",
@@ -186,11 +190,6 @@
     "5. High Availability",
     "4. Databases",
     "3. Networking",
-    "2. Storage",
-    "1. Compute",
-    "1. Compute/EC2 Auto Scaling/EC2 Auto Scaling.md",
-    "1. Compute/Index.md",
-    "1. Compute/EC2 Auto Scaling",
     "1. Compute/AWS Compute Fundamentals/Elastic Compute Cloud.md",
     "1. Compute/AWS Compute Fundamentals/AWS Elastic Beanstalk.md",
     "1. Compute/AWS Compute Fundamentals/ECS.md",
