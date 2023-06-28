@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Academy/ECS.md",
+                "file": "Cloud Academy/Amazon ECR.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Academy/ECS.md",
+                "file": "Cloud Academy/Amazon ECR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Academy/ECS.md",
+                "file": "Cloud Academy/Amazon ECR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Academy/ECS.md"
+                "file": "Cloud Academy/Amazon ECR.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "196dc29380a3702c",
   "lastOpenFiles": [
-    "Cloud Academy/Elastic Compute Cloud.md",
     "Cloud Academy/ECS.md",
+    "Cloud Academy/Amazon ECR.md",
+    "Cloud Academy/Elastic Compute Cloud.md",
     "Cloud Academy",
     "Section-21/Aurora.md",
     "EC2/EC 2.md",
@@ -182,7 +183,6 @@
     "Section-16/FSx File Gateway.md",
     "Section-16",
     "Amazon S3 Encryption/Amazon S3 Encryption.md",
-    "Amazon S3 Encryption/S3 Encryption.md",
     "Amazon S3 Encryption",
     "S3/Images/Bucket_Policy.png",
     "S3/Images",
