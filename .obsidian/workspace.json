@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Academy/Amazon EKS.md",
+                "file": "Cloud Academy/AWS Elastic Beanstalk.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Academy/Amazon EKS.md",
+                "file": "Cloud Academy/AWS Elastic Beanstalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Academy/Amazon EKS.md",
+                "file": "Cloud Academy/AWS Elastic Beanstalk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Academy/Amazon EKS.md"
+                "file": "Cloud Academy/AWS Elastic Beanstalk.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "196dc29380a3702c",
   "lastOpenFiles": [
+    "Cloud Academy/Amazon EKS.md",
+    "Cloud Academy/AWS Elastic Beanstalk.md",
     "Cloud Academy/Amazon ECR.md",
     "Cloud Academy/Elastic Compute Cloud.md",
-    "Cloud Academy/Amazon EKS.md",
     "Cloud Academy/ECS.md",
     "Cloud Academy",
     "Section-21/Aurora.md",
@@ -181,7 +182,6 @@
     "Section-16/Tape File Gateway.md",
     "Section-16/Volume File Gateway.md",
     "Section-16/S3 File Gateway.md",
-    "Section-16/FSx File Gateway.md",
     "Section-16",
     "Amazon S3 Encryption",
     "S3/Images/Bucket_Policy.png",
