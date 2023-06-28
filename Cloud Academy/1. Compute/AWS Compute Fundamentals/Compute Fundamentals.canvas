@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"78dddb3b7373041e","x":-530,"y":-411,"width":400,"height":400,"type":"file","file":"1. Compute/AWS Compute Fundamentals/Amazon ECR.md"},
+		{"id":"ba0160fac83d67cb","x":-85,"y":-411,"width":400,"height":400,"type":"file","file":"1. Compute/AWS Compute Fundamentals/Amazon EKS.md"},
+		{"id":"cea3f274f58638ed","x":360,"y":-411,"width":400,"height":400,"type":"file","file":"1. Compute/AWS Compute Fundamentals/AWS Batch.md"},
+		{"id":"86f26eedae77bc22","x":805,"y":-411,"width":400,"height":400,"type":"file","file":"1. Compute/AWS Compute Fundamentals/AWS Elastic Beanstalk.md"},
+		{"id":"cff4ad5754cf2a85","x":1250,"y":-411,"width":400,"height":400,"type":"file","file":"1. Compute/AWS Compute Fundamentals/ECS.md"},
+		{"id":"f5eb59d3e96a3760","x":1695,"y":-411,"width":400,"height":400,"type":"file","file":"1. Compute/AWS Compute Fundamentals/Elastic Compute Cloud.md"},
+		{"id":"01f12cd2c58c136d","x":2140,"y":-411,"width":400,"height":400,"type":"file","file":"1. Compute/AWS Compute Fundamentals/Compute Fundamentals.canvas"}
+	],
+	"edges":[]
+}
