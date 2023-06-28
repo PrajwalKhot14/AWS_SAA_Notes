@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Compute Fundamentals/Elastic Compute Cloud.md",
+                "file": "1. Compute/AWS Compute Fundamentals/Elastic Compute Cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Compute Fundamentals/Elastic Compute Cloud.md",
+                "file": "1. Compute/AWS Compute Fundamentals/Elastic Compute Cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EC2 Auto Scaling/EC2 Auto Scaling.md",
+                "file": "1. Compute/EC2 Auto Scaling/Components of EC2 Auto Scaling.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EC2 Auto Scaling/EC2 Auto Scaling.md",
+                "file": "1. Compute/EC2 Auto Scaling/Components of EC2 Auto Scaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EC2 Auto Scaling/EC2 Auto Scaling.md",
+                "file": "1. Compute/EC2 Auto Scaling/Components of EC2 Auto Scaling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EC2 Auto Scaling/EC2 Auto Scaling.md"
+                "file": "1. Compute/EC2 Auto Scaling/Components of EC2 Auto Scaling.md"
               }
             }
           }
@@ -173,15 +173,25 @@
   },
   "active": "fa8bb84bc5f2b7bc",
   "lastOpenFiles": [
-    "Index.md",
-    "EC2 Auto Scaling/EC2 Auto Scaling.md",
-    "EC2 Auto Scaling",
-    "AWS Compute Fundamentals/Elastic Compute Cloud.md",
-    "AWS Compute Fundamentals/AWS Elastic Beanstalk.md",
-    "AWS Compute Fundamentals/ECS.md",
-    "AWS Compute Fundamentals/AWS Batch.md",
-    "AWS Compute Fundamentals",
-    "AWS Compute Fundamentals/Amazon EKS.md",
-    "AWS Compute Fundamentals/Amazon ECR.md"
+    "1. Compute/AWS Compute Fundamentals/Compute Fundamentals.canvas",
+    "1. Compute/EC2 Auto Scaling/Components of EC2 Auto Scaling.md",
+    "9. Encryption",
+    "8. Management",
+    "7. Security",
+    "6. Architecture",
+    "5. High Availability",
+    "4. Databases",
+    "3. Networking",
+    "2. Storage",
+    "1. Compute",
+    "1. Compute/EC2 Auto Scaling/EC2 Auto Scaling.md",
+    "1. Compute/Index.md",
+    "1. Compute/EC2 Auto Scaling",
+    "1. Compute/AWS Compute Fundamentals/Elastic Compute Cloud.md",
+    "1. Compute/AWS Compute Fundamentals/AWS Elastic Beanstalk.md",
+    "1. Compute/AWS Compute Fundamentals/ECS.md",
+    "1. Compute/AWS Compute Fundamentals/AWS Batch.md",
+    "1. Compute/AWS Compute Fundamentals/Amazon EKS.md",
+    "1. Compute/AWS Compute Fundamentals/Amazon ECR.md"
   ]
 }
